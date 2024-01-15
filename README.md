@@ -6,6 +6,6 @@ In this repository, I store my solved LeetCode problems.
 
 ## 📑 Problem List
 
-|#      |TITLE                  |DESCRIPTION                                   |SOLUTION                 |
-|:-----:|:---------------------:|:--------------------------------------------:|:-----------------------:|
-|01	    |Two Sum                | [`EN Description`](problem01/README.md)	     |[`Solution`](problem01)  |
+|#      |TITLE                  |DESCRIPTION                                                                   |SOLUTION                              |
+|:-----:|:---------------------:|:----------------------------------------------------------------------------:|:------------------------------------:|
+|01	    |Two Sum                | [`EN Description`](https://leetcode.com/problems/two-sum/description/)	     |[`Solution`](problem01/solution.cpp)  |
