@@ -10,4 +10,4 @@ In this repository, I store my solved LeetCode problems.
 |:-----:|:---------------------:|:---------------------------------------------------------------------------------:|:--------------------------------------:|
 |01	    |Two Sum                | [`EN Description`](https://leetcode.com/problems/two-sum/description/)	          |[`Solution`](problem01/solution.cpp)    |
 |09	    |Palindrome Number      | [`EN Description`](https://leetcode.com/problems/palindrome-number/description/)	|[`Solution`](problem09/solution.cpp)    |
-|136    |Single Number          | [`EN Description`](https://leetcode.com/problems/single-number/submissions/)     	|[`Solution`](problem136/solution.cpp)   |
+|136    |Single Number          | [`EN Description`](https://leetcode.com/problems/single-number/description/)     	|[`Solution`](problem136/solution.cpp)   |
