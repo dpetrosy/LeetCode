@@ -14,3 +14,4 @@ In this repository, I store my solved LeetCode problems.
 |66	    |Plus One                  | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	        |[`Solution`](problem66/solution.cpp)    |
 |136    |Single Number             | [`EN Description`](https://leetcode.com/problems/single-number/description/)     	      |[`Solution`](problem136/solution.cpp)   |
 |168    |Excel Sheet Column Title  | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-title/description/)  |[`Solution`](problem168/solution.cpp)   |
+|217    |Contains Duplicate        | [`EN Description`](https://leetcode.com/problems/contains-duplicate/description/)        |[`Solution`](problem217/solution.cpp)   |
