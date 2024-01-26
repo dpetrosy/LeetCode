@@ -18,6 +18,7 @@ In this repository, I store my solved LeetCode problems.
 |168    |Excel Sheet Column Title  | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-title/description/)  |[`Solution`](problem168/solution.cpp)   |
 |190    |Reverse Bits              | [`EN Description`](https://leetcode.com/problems/reverse-bits/description/)              |[`Solution`](problem190/solution.cpp)   |
 |191    |Number of 1 Bits          | [`EN Description`](https://leetcode.com/problems/number-of-1-bits/description/)          |[`Solution`](problem191/solution.cpp)   |
+|206    |Reverse Linked List       | [`EN Description`](https://leetcode.com/problems/reverse-linked-list/description/)       |[`Solution`](problem206/solution.cpp)   |
 |217    |Contains Duplicate        | [`EN Description`](https://leetcode.com/problems/contains-duplicate/description/)        |[`Solution`](problem217/solution.cpp)   |
 |231    |Power of Two              | [`EN Description`](https://leetcode.com/problems/power-of-two/description/)              |[`Solution`](problem231/solution.cpp)   |
 |242    |Valid Anagram             | [`EN Description`](https://leetcode.com/problems/valid-anagram/description/)             |[`Solution`](problem242/solution.cpp)   |
