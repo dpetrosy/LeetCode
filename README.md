@@ -24,6 +24,7 @@ In this repository, I store my solved LeetCode problems.
 |206    |Reverse Linked List               | [`EN Description`](https://leetcode.com/problems/reverse-linked-list/description/)               |[`Solution`](problem206/solution.cpp)   |
 |217    |Contains Duplicate                | [`EN Description`](https://leetcode.com/problems/contains-duplicate/description/)                |[`Solution`](problem217/solution.cpp)   |
 |231    |Power of Two                      | [`EN Description`](https://leetcode.com/problems/power-of-two/description/)                      |[`Solution`](problem231/solution.cpp)   |
+|237    |Delete Node in a Linked List      | [`EN Description`](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)      |[`Solution`](problem237/solution.cpp)   |
 |242    |Valid Anagram                     | [`EN Description`](https://leetcode.com/problems/valid-anagram/description/)                     |[`Solution`](problem242/solution.cpp)   |
 |268    |Missing Number                    | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                    |[`Solution`](problem268/solution.cpp)   |
 |338    |Counting Bits                     | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                     |[`Solution`](problem338/solution.cpp)   |
