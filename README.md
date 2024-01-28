@@ -26,3 +26,4 @@ In this repository, I store my solved LeetCode problems.
 |242    |Valid Anagram                     | [`EN Description`](https://leetcode.com/problems/valid-anagram/description/)                     |[`Solution`](problem242/solution.cpp)   |
 |268    |Missing Number                    | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                    |[`Solution`](problem268/solution.cpp)   |
 |338    |Counting Bits                     | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                     |[`Solution`](problem338/solution.cpp)   |
+|704    |Binary Search                     | [`EN Description`](https://leetcode.com/problems/binary-search/description/)                     |[`Solution`](problem704/solution.cpp)   |
