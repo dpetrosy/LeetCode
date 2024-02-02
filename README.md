@@ -37,3 +37,4 @@ In this repository, I store my solved LeetCode problems.
 |543    |Diameter of Binary Tree           | [`EN Description`](https://leetcode.com/problems/diameter-of-binary-tree/description/)           |[`Solution`](problem543/solution.cpp)   |
 |654    |Maximum Binary Tree               | [`EN Description`](https://leetcode.com/problems/maximum-binary-tree/description/)               |[`Solution`](problem654/solution.cpp)   |
 |704    |Binary Search                     | [`EN Description`](https://leetcode.com/problems/binary-search/description/)                     |[`Solution`](problem704/solution.cpp)   |
+|2427   |Number of Common Factors          | [`EN Description`](https://leetcode.com/problems/number-of-common-factors/description/)          |[`Solution`](problem2427/solution.cpp)  |
