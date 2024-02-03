@@ -10,7 +10,8 @@ In this repository, I store my solved LeetCode problems.
 |:-----:|:--------------------------------:|:------------------------------------------------------------------------------------------------:|:--------------------------------------:|
 |01	    |Two Sum                           | [`EN Description`](https://leetcode.com/problems/two-sum/description/)	                          |[`Solution`](problem01/solution.cpp)    |
 |09	    |Palindrome Number                 | [`EN Description`](https://leetcode.com/problems/palindrome-number/description/)	                |[`Solution`](problem09/solution.cpp)    |
-|19	    |Remove Nth Node From End of List  | [`EN Description`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)	| [`Solution`](problem19/solution.cpp)   |
+|14	    |Longest Common Prefix             | [`EN Description`](https://leetcode.com/problems/longest-common-prefix/description/)	            |[`Solution`](problem14/solution.cpp)    |
+|19	    |Remove Nth Node From End of List  | [`EN Description`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)	|[`Solution`](problem19/solution.cpp)    |
 |20	    |Valid Parentheses                 | [`EN Description`](https://leetcode.com/problems/valid-parentheses/description/)	                |[`Solution`](problem20/solution.cpp)    |
 |66	    |Plus One                          | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	                |[`Solution`](problem66/solution.cpp)    |
 |70	    |Climbing Stairs                   | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	          |[`Solution`](problem70/solution.cpp)    |
