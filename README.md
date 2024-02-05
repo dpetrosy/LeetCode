@@ -33,6 +33,7 @@ In this repository, I store my solved LeetCode problems.
 |231    |Power of Two                      | [`EN Description`](https://leetcode.com/problems/power-of-two/description/)                      |[`Solution`](problem231/solution.cpp)   |
 |237    |Delete Node in a Linked List      | [`EN Description`](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)      |[`Solution`](problem237/solution.cpp)   |
 |242    |Valid Anagram                     | [`EN Description`](https://leetcode.com/problems/valid-anagram/description/)                     |[`Solution`](problem242/solution.cpp)   |
+|263    |Ugly Number                       | [`EN Description`](https://leetcode.com/problems/ugly-number/description/)                       |[`Solution`](problem263/solution.cpp)   |
 |268    |Missing Number                    | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                    |[`Solution`](problem268/solution.cpp)   |
 |338    |Counting Bits                     | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                     |[`Solution`](problem338/solution.cpp)   |
 |344    |Reverse String                    | [`EN Description`](https://leetcode.com/problems/reverse-string/description/)                    |[`Solution`](problem344/solution.cpp)   |
