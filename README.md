@@ -14,6 +14,7 @@ In this repository, I store my solved LeetCode problems.
 |19	    |Remove Nth Node From End of List        | [`EN Description`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)	      |[`Solution`](problem19/solution.cpp)    |
 |20	    |Valid Parentheses                       | [`EN Description`](https://leetcode.com/problems/valid-parentheses/description/)	                      |[`Solution`](problem20/solution.cpp)    |
 |50	    |Pow(x, n)                               | [`EN Description`](https://leetcode.com/problems/powx-n/description/)	                                |[`Solution`](problem50/solution.cpp)    |
+|58	    |Length of Last Word                     | [`EN Description`](https://leetcode.com/problems/length-of-last-word/description/)	                    |[`Solution`](problem58/solution.cpp)    |
 |66	    |Plus One                                | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	                      |[`Solution`](problem66/solution.cpp)    |
 |70	    |Climbing Stairs                         | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	                |[`Solution`](problem70/solution.cpp)    |
 |94	    |Binary Tree Inorder Traversal           | [`EN Description`](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)        	  |[`Solution`](problem94/solution.cpp)    |
