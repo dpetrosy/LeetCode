@@ -23,6 +23,7 @@ In this repository, I store my solved LeetCode problems.
 |125	  |Valid Palindrome                        | [`EN Description`](https://leetcode.com/problems/valid-palindrome/description/)        	              |[`Solution`](problem125/solution.cpp)   |
 |136    |Single Number                           | [`EN Description`](https://leetcode.com/problems/single-number/description/)     	                    |[`Solution`](problem136/solution.cpp)   |
 |141    |Linked List Cycle                       | [`EN Description`](https://leetcode.com/problems/linked-list-cycle/description/)     	                |[`Solution`](problem141/solution.cpp)   |
+|144    |Binary Tree Preorder Traversal          | [`EN Description`](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)     	    |[`Solution`](problem144/solution.cpp)   |
 |155    |Min Stack                               | [`EN Description`](https://leetcode.com/problems/min-stack/description/)     	                        |[`Solution`](problem155/solution.cpp)   |
 |168    |Excel Sheet Column Title                | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-title/description/)                |[`Solution`](problem168/solution.cpp)   |
 |190    |Reverse Bits                            | [`EN Description`](https://leetcode.com/problems/reverse-bits/description/)                            |[`Solution`](problem190/solution.cpp)   |
