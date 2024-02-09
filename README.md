@@ -16,6 +16,7 @@ In this repository, I store my solved LeetCode problems.
 |50	    |Pow(x, n)                               | [`EN Description`](https://leetcode.com/problems/powx-n/description/)	                                |[`Solution`](problem50/solution.cpp)    |
 |66	    |Plus One                                | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	                      |[`Solution`](problem66/solution.cpp)    |
 |70	    |Climbing Stairs                         | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	                |[`Solution`](problem70/solution.cpp)    |
+|94	    |Binary Tree Inorder Traversal           | [`EN Description`](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)        	  |[`Solution`](problem94/solution.cpp)    |
 |100	  |Same Tree                               | [`EN Description`](https://leetcode.com/problems/same-tree/description/)        	                      |[`Solution`](problem100/solution.cpp)   |
 |104	  |Maximum Depth of Binary Tree            | [`EN Description`](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)            |[`Solution`](problem104/solution.cpp)   |
 |110	  |Balanced Binary Tree                    | [`EN Description`](https://leetcode.com/problems/balanced-binary-tree/description/)                    |[`Solution`](problem110/solution.cpp)   |
