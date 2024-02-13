@@ -24,6 +24,7 @@ In this repository, I store my solved LeetCode problems.
 |104	  |Maximum Depth of Binary Tree            | [`EN Description`](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)            |[`Solution`](problem104/solution.cpp)   |
 |110	  |Balanced Binary Tree                    | [`EN Description`](https://leetcode.com/problems/balanced-binary-tree/description/)                    |[`Solution`](problem110/solution.cpp)   |
 |111	  |Minimum Depth of Binary Tree            | [`EN Description`](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)            |[`Solution`](problem111/solution.cpp)   |
+|112	  |Path Sum                                | [`EN Description`](https://leetcode.com/problems/path-sum/description/)                                |[`Solution`](problem112/solution.cpp)   |
 |125	  |Valid Palindrome                        | [`EN Description`](https://leetcode.com/problems/valid-palindrome/description/)        	              |[`Solution`](problem125/solution.cpp)   |
 |136    |Single Number                           | [`EN Description`](https://leetcode.com/problems/single-number/description/)     	                    |[`Solution`](problem136/solution.cpp)   |
 |141    |Linked List Cycle                       | [`EN Description`](https://leetcode.com/problems/linked-list-cycle/description/)     	                |[`Solution`](problem141/solution.cpp)   |
