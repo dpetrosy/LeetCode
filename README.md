@@ -41,6 +41,7 @@ In this repository, I store my solved LeetCode problems.
 |231    |Power of Two                            | [`EN Description`](https://leetcode.com/problems/power-of-two/description/)                            |[`Solution`](problem231/solution.cpp)   |
 |237    |Delete Node in a Linked List            | [`EN Description`](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)            |[`Solution`](problem237/solution.cpp)   |
 |242    |Valid Anagram                           | [`EN Description`](https://leetcode.com/problems/valid-anagram/description/)                           |[`Solution`](problem242/solution.cpp)   |
+|257    |Binary Tree Paths                       | [`EN Description`](https://leetcode.com/problems/binary-tree-paths/description/)                       |[`Solution`](problem257/solution.cpp)   |
 |258    |Add Digits                              | [`EN Description`](https://leetcode.com/problems/add-digits/description/)                              |[`Solution`](problem258/solution.cpp)   |
 |263    |Ugly Number                             | [`EN Description`](https://leetcode.com/problems/ugly-number/description/)                             |[`Solution`](problem263/solution.cpp)   |
 |268    |Missing Number                          | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                          |[`Solution`](problem268/solution.cpp)   |
