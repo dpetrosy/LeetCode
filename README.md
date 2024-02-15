@@ -20,6 +20,7 @@ In this repository, I store my solved LeetCode problems.
 |58	    |Length of Last Word                     | [`EN Description`](https://leetcode.com/problems/length-of-last-word/description/)	                                |[`Solution`](problem58/solution.cpp)    |
 |66	    |Plus One                                | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	                                  |[`Solution`](problem66/solution.cpp)    |
 |70	    |Climbing Stairs                         | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	                            |[`Solution`](problem70/solution.cpp)    |
+|83	    |Remove Duplicates from Sorted List      | [`EN Description`](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)        	        |[`Solution`](problem83/solution.cpp)    |
 |94	    |Binary Tree Inorder Traversal           | [`EN Description`](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)        	              |[`Solution`](problem94/solution.cpp)    |
 |100	  |Same Tree                               | [`EN Description`](https://leetcode.com/problems/same-tree/description/)        	                                  |[`Solution`](problem100/solution.cpp)   |
 |104	  |Maximum Depth of Binary Tree            | [`EN Description`](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                        |[`Solution`](problem104/solution.cpp)   |
