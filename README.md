@@ -54,6 +54,7 @@ In this repository, I store my solved LeetCode problems.
 |268    |Missing Number                          | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                                      |[`Solution`](problem268/solution.cpp)   |
 |278    |First Bad Version                       | [`EN Description`](https://leetcode.com/problems/first-bad-version/description/)                                   |[`Solution`](problem278/solution.cpp)   |
 |338    |Counting Bits                           | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                                       |[`Solution`](problem338/solution.cpp)   |
+|342    |Power of Four                           | [`EN Description`](https://leetcode.com/problems/power-of-four/description/)                                       |[`Solution`](problem342/solution.cpp)   |
 |344    |Reverse String                          | [`EN Description`](https://leetcode.com/problems/reverse-string/description/)                                      |[`Solution`](problem344/solution.cpp)   |
 |374    |Guess Number Higher or Lower            | [`EN Description`](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                        |[`Solution`](problem374/solution.cpp)   |
 |402    |Remove K Digits                         | [`EN Description`](https://leetcode.com/problems/remove-k-digits/description/)                                     |[`Solution`](problem402/solution.cpp)   |
