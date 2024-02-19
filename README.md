@@ -56,6 +56,7 @@ In this repository, I store my solved LeetCode problems.
 |338    |Counting Bits                           | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                                       |[`Solution`](problem338/solution.cpp)   |
 |344    |Reverse String                          | [`EN Description`](https://leetcode.com/problems/reverse-string/description/)                                      |[`Solution`](problem344/solution.cpp)   |
 |402    |Remove K Digits                         | [`EN Description`](https://leetcode.com/problems/remove-k-digits/description/)                                     |[`Solution`](problem402/solution.cpp)   |
+|412    |Fizz Buzz                               | [`EN Description`](https://leetcode.com/problems/fizz-buzz/description/)                                           |[`Solution`](problem412/solution.cpp)   |
 |509    |Fibonacci Number                        | [`EN Description`](https://leetcode.com/problems/fibonacci-number/description/)                                    |[`Solution`](problem509/solution.cpp)   |
 |543    |Diameter of Binary Tree                 | [`EN Description`](https://leetcode.com/problems/diameter-of-binary-tree/description/)                             |[`Solution`](problem543/solution.cpp)   |
 |572    |Subtree of Another Tree                 | [`EN Description`](https://leetcode.com/problems/subtree-of-another-tree/description/)                             |[`Solution`](problem572/solution.cpp)   |
