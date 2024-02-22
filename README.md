@@ -20,6 +20,7 @@ In this repository, I store my solved LeetCode problems.
 |50	    |Pow(x, n)                               | [`EN Description`](https://leetcode.com/problems/powx-n/description/)	                                            |[`Solution`](problem50/solution.cpp)    |
 |58	    |Length of Last Word                     | [`EN Description`](https://leetcode.com/problems/length-of-last-word/description/)	                                |[`Solution`](problem58/solution.cpp)    |
 |66	    |Plus One                                | [`EN Description`](https://leetcode.com/problems/plus-one/description/)        	                                  |[`Solution`](problem66/solution.cpp)    |
+|69	    |Sqrt(x)                                 | [`EN Description`](https://leetcode.com/problems/sqrtx/description/)        	                                      |[`Solution`](problem69/solution.cpp)    |
 |70	    |Climbing Stairs                         | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	                            |[`Solution`](problem70/solution.cpp)    |
 |83	    |Remove Duplicates from Sorted List      | [`EN Description`](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)        	        |[`Solution`](problem83/solution.cpp)    |
 |94	    |Binary Tree Inorder Traversal           | [`EN Description`](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)        	              |[`Solution`](problem94/solution.cpp)    |
