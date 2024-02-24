@@ -61,6 +61,7 @@ In this repository, I store my solved LeetCode problems.
 |367    |Valid Perfect Square                    | [`EN Description`](https://leetcode.com/problems/valid-perfect-square/description/)                                |[`Solution`](problem367/solution.cpp)   |
 |374    |Guess Number Higher or Lower            | [`EN Description`](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                        |[`Solution`](problem374/solution.cpp)   |
 |402    |Remove K Digits                         | [`EN Description`](https://leetcode.com/problems/remove-k-digits/description/)                                     |[`Solution`](problem402/solution.cpp)   |
+|404    |Sum of Left Leaves                      | [`EN Description`](https://leetcode.com/problems/sum-of-left-leaves/description/)                                  |[`Solution`](problem404/solution.cpp)   |
 |412    |Fizz Buzz                               | [`EN Description`](https://leetcode.com/problems/fizz-buzz/description/)                                           |[`Solution`](problem412/solution.cpp)   |
 |509    |Fibonacci Number                        | [`EN Description`](https://leetcode.com/problems/fibonacci-number/description/)                                    |[`Solution`](problem509/solution.cpp)   |
 |543    |Diameter of Binary Tree                 | [`EN Description`](https://leetcode.com/problems/diameter-of-binary-tree/description/)                             |[`Solution`](problem543/solution.cpp)   |
