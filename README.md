@@ -54,6 +54,7 @@ In this repository, I store my solved LeetCode problems.
 |263    |Ugly Number                             | [`EN Description`](https://leetcode.com/problems/ugly-number/description/)                                         |[`Solution`](problem263/solution.cpp)   |
 |268    |Missing Number                          | [`EN Description`](https://leetcode.com/problems/missing-number/description/)                                      |[`Solution`](problem268/solution.cpp)   |
 |278    |First Bad Version                       | [`EN Description`](https://leetcode.com/problems/first-bad-version/description/)                                   |[`Solution`](problem278/solution.cpp)   |
+|326    |Power of Three                          | [`EN Description`](https://leetcode.com/problems/power-of-three/description/)                                      |[`Solution`](problem326/solution.cpp)   |
 |338    |Counting Bits                           | [`EN Description`](https://leetcode.com/problems/counting-bits/description/)                                       |[`Solution`](problem338/solution.cpp)   |
 |342    |Power of Four                           | [`EN Description`](https://leetcode.com/problems/power-of-four/description/)                                       |[`Solution`](problem342/solution.cpp)   |
 |344    |Reverse String                          | [`EN Description`](https://leetcode.com/problems/reverse-string/description/)                                      |[`Solution`](problem344/solution.cpp)   |
