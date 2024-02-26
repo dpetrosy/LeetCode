@@ -78,3 +78,4 @@ In this repository, I store my solved LeetCode problems.
 |2427   |Number of Common Factors                | [`EN Description`](https://leetcode.com/problems/number-of-common-factors/description/)                            |[`Solution`](problem2427/solution.cpp)  |
 |2520   |Count the Digits That Divide a Number   | [`EN Description`](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)               |[`Solution`](problem2520/solution.cpp)  |
 |2525   |Categorize Box According to Criteria    | [`EN Description`](https://leetcode.com/problems/categorize-box-according-to-criteria/description/)                |[`Solution`](problem2525/solution.cpp)  |
+|2810   |Faulty Keyboard                         | [`EN Description`](https://leetcode.com/problems/faulty-keyboard/description/)                                     |[`Solution`](problem2810/solution.cpp)  |
