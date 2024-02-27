@@ -78,6 +78,7 @@ In this repository, I store my solved LeetCode problems.
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
 |2194   |Cells in a Range on an Excel Sheet      | [`EN Description`](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)                  |[`Solution`](problem2194/solution.cpp)  |
+|2413   |Smallest Even Multiple                  | [`EN Description`](https://leetcode.com/problems/smallest-even-multiple/description/)                              |[`Solution`](problem2413/solution.cpp)  |
 |2427   |Number of Common Factors                | [`EN Description`](https://leetcode.com/problems/number-of-common-factors/description/)                            |[`Solution`](problem2427/solution.cpp)  |
 |2520   |Count the Digits That Divide a Number   | [`EN Description`](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)               |[`Solution`](problem2520/solution.cpp)  |
 |2525   |Categorize Box According to Criteria    | [`EN Description`](https://leetcode.com/problems/categorize-box-according-to-criteria/description/)                |[`Solution`](problem2525/solution.cpp)  |
