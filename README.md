@@ -83,4 +83,5 @@ In this repository, I store my solved LeetCode problems.
 |2481   |Minimum Cuts to Divide a Circle         | [`EN Description`](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/description/)                     |[`Solution`](problem2481/solution.cpp)  |
 |2520   |Count the Digits That Divide a Number   | [`EN Description`](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)               |[`Solution`](problem2520/solution.cpp)  |
 |2525   |Categorize Box According to Criteria    | [`EN Description`](https://leetcode.com/problems/categorize-box-according-to-criteria/description/)                |[`Solution`](problem2525/solution.cpp)  |
+|2579   |Count Total Number of Colored Cells     | [`EN Description`](https://leetcode.com/problems/count-total-number-of-colored-cells/description/)                 |[`Solution`](problem2579/solution.cpp)  |
 |2810   |Faulty Keyboard                         | [`EN Description`](https://leetcode.com/problems/faulty-keyboard/description/)                                     |[`Solution`](problem2810/solution.cpp)  |
