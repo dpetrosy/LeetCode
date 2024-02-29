@@ -39,6 +39,7 @@ In this repository, I store my solved LeetCode problems.
 |155    |Min Stack                               | [`EN Description`](https://leetcode.com/problems/min-stack/description/)     	                                    |[`Solution`](problem155/solution.cpp)   |
 |168    |Excel Sheet Column Title                | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-title/description/)                            |[`Solution`](problem168/solution.cpp)   |
 |171    |Excel Sheet Column Number               | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-number/description/)                           |[`Solution`](problem171/solution.cpp)   |
+|189    |Rotate Array                            | [`EN Description`](https://leetcode.com/problems/rotate-array/description/)                                        |[`Solution`](problem189/solution.cpp)   |
 |190    |Reverse Bits                            | [`EN Description`](https://leetcode.com/problems/reverse-bits/description/)                                        |[`Solution`](problem190/solution.cpp)   |
 |191    |Number of 1 Bits                        | [`EN Description`](https://leetcode.com/problems/number-of-1-bits/description/)                                    |[`Solution`](problem191/solution.cpp)   |
 |202    |Happy Number                            | [`EN Description`](https://leetcode.com/problems/happy-number/description/)                                        |[`Solution`](problem202/solution.cpp)   |
