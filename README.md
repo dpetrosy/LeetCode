@@ -78,6 +78,7 @@ In this repository, I store my solved LeetCode problems.
 |704    |Binary Search                           | [`EN Description`](https://leetcode.com/problems/binary-search/description/)                                       |[`Solution`](problem704/solution.cpp)   |
 |746    |Min Cost Climbing Stairs                | [`EN Description`](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                            |[`Solution`](problem746/solution.cpp)   |
 |917    |Reverse Only Letters                    | [`EN Description`](https://leetcode.com/problems/reverse-only-letters/description/)                                |[`Solution`](problem917/solution.cpp)   |
+|1025   |Divisor Game                            | [`EN Description`](https://leetcode.com/problems/divisor-game/description/)                                        |[`Solution`](problem1025/solution.cpp)  |
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
 |2194   |Cells in a Range on an Excel Sheet      | [`EN Description`](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)                  |[`Solution`](problem2194/solution.cpp)  |
