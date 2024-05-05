@@ -83,6 +83,7 @@ In this repository, I store my solved LeetCode problems.
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
 |2194   |Cells in a Range on an Excel Sheet      | [`EN Description`](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)                  |[`Solution`](problem2194/solution.cpp)  |
 |2224   |Minimum Number to Convert Time          | [`EN Description`](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/)        |[`Solution`](problem2224/solution.cpp)  |
+|2347   |Best Poker Hand                         | [`EN Description`](https://leetcode.com/problems/best-poker-hand/description/)                                     |[`Solution`](problem2347/solution.cpp)  |
 |2413   |Smallest Even Multiple                  | [`EN Description`](https://leetcode.com/problems/smallest-even-multiple/description/)                              |[`Solution`](problem2413/solution.cpp)  |
 |2427   |Number of Common Factors                | [`EN Description`](https://leetcode.com/problems/number-of-common-factors/description/)                            |[`Solution`](problem2427/solution.cpp)  |
 |2469   |Convert the Temperature                 | [`EN Description`](https://leetcode.com/problems/convert-the-temperature/description/)                             |[`Solution`](problem2469/solution.cpp)  |
