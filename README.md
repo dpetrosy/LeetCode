@@ -66,6 +66,7 @@ In this repository, I store my solved LeetCode problems.
 |345    |Reverse Vowels of a String              | [`EN Description`](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                          |[`Solution`](problem345/solution.cpp)   |
 |367    |Valid Perfect Square                    | [`EN Description`](https://leetcode.com/problems/valid-perfect-square/description/)                                |[`Solution`](problem367/solution.cpp)   |
 |374    |Guess Number Higher or Lower            | [`EN Description`](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                        |[`Solution`](problem374/solution.cpp)   |
+|383    |Ransom Note                             | [`EN Description`](https://leetcode.com/problems/ransom-note/description/)                                         |[`Solution`](problem383/solution.cpp)   |
 |402    |Remove K Digits                         | [`EN Description`](https://leetcode.com/problems/remove-k-digits/description/)                                     |[`Solution`](problem402/solution.cpp)   |
 |404    |Sum of Left Leaves                      | [`EN Description`](https://leetcode.com/problems/sum-of-left-leaves/description/)                                  |[`Solution`](problem404/solution.cpp)   |
 |412    |Fizz Buzz                               | [`EN Description`](https://leetcode.com/problems/fizz-buzz/description/)                                           |[`Solution`](problem412/solution.cpp)   |
