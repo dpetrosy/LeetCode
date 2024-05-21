@@ -84,6 +84,7 @@ In this repository, I store my solved LeetCode problems.
 |1025   |Divisor Game                            | [`EN Description`](https://leetcode.com/problems/divisor-game/description/)                                        |[`Solution`](problem1025/solution.cpp)  |
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
+|2095   |Delete the Middle Node of a Linked List | [`EN Description`](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)             |[`Solution`](problem2095/solution.cpp)  |
 |2194   |Cells in a Range on an Excel Sheet      | [`EN Description`](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)                  |[`Solution`](problem2194/solution.cpp)  |
 |2224   |Minimum Number to Convert Time          | [`EN Description`](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/)        |[`Solution`](problem2224/solution.cpp)  |
 |2347   |Best Poker Hand                         | [`EN Description`](https://leetcode.com/problems/best-poker-hand/description/)                                     |[`Solution`](problem2347/solution.cpp)  |
