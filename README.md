@@ -9,6 +9,7 @@ In this repository, I store my solved LeetCode problems.
 |#      |TITLE                                   |DESCRIPTION                                                                                                         |SOLUTION                                |
 |:-----:|:--------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|
 |01	    |Two Sum                                 | [`EN Description`](https://leetcode.com/problems/two-sum/description/)	                                            |[`Solution`](problem01/solution.cpp)    |
+|03	    |Longest Substring Without Repeats       | [`EN Description`](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)	    |[`Solution`](problem03/solution.cpp)    |
 |08	    |String to Integer (atoi)                | [`EN Description`](https://leetcode.com/problems/string-to-integer-atoi/description/)	                            |[`Solution`](problem08/solution.cpp)    |
 |09	    |Palindrome Number                       | [`EN Description`](https://leetcode.com/problems/palindrome-number/description/)	                                  |[`Solution`](problem09/solution.cpp)    |
 |12	    |Integer to Roman                        | [`EN Description`](https://leetcode.com/problems/integer-to-roman/description/)	                                  |[`Solution`](problem12/solution.cpp)    |
