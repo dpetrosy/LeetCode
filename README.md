@@ -26,6 +26,7 @@ In this repository, I store my solved LeetCode problems.
 |69	    |Sqrt(x)                                 | [`EN Description`](https://leetcode.com/problems/sqrtx/description/)        	                                      |[`Solution`](problem69/solution.cpp)    |
 |70	    |Climbing Stairs                         | [`EN Description`](https://leetcode.com/problems/climbing-stairs/description/)        	                            |[`Solution`](problem70/solution.cpp)    |
 |83	    |Remove Duplicates from Sorted List      | [`EN Description`](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)        	        |[`Solution`](problem83/solution.cpp)    |
+|88	    |Merge Sorted Array                      | [`EN Description`](https://leetcode.com/problems/merge-sorted-array/description/)        	                        |[`Solution`](problem88/solution.cpp)    |
 |94	    |Binary Tree Inorder Traversal           | [`EN Description`](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)        	              |[`Solution`](problem94/solution.cpp)    |
 |100	  |Same Tree                               | [`EN Description`](https://leetcode.com/problems/same-tree/description/)        	                                  |[`Solution`](problem100/solution.cpp)   |
 |102	  |Binary Tree Level Order Traversal       | [`EN Description`](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)                   |[`Solution`](problem102/solution.cpp)   |
