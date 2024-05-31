@@ -2,7 +2,7 @@
 
 In this repository, I store my solved LeetCode problems.
 * [Link to LeetCode](https://leetcode.com/)
-* [Link to My Profile](https://leetcode.com/dpetrosy01/)
+* [Link to My Profile](https://leetcode.com/u/dpetrosy/)
 
 ## 📑 Problem List
 
