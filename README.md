@@ -70,6 +70,7 @@ In this repository, I store my solved LeetCode problems.
 |344    |Reverse String                          | [`EN Description`](https://leetcode.com/problems/reverse-string/description/)                                      |[`Solution`](problem344/solution.cpp)   |
 |345    |Reverse Vowels of a String              | [`EN Description`](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                          |[`Solution`](problem345/solution.cpp)   |
 |349    |Intersection of Two Arrays              | [`EN Description`](https://leetcode.com/problems/intersection-of-two-arrays/description/)                          |[`Solution`](problem349/solution.cpp)   |
+|350    |Intersection of Two Arrays II           | [`EN Description`](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                       |[`Solution`](problem350/solution.cpp)   |
 |367    |Valid Perfect Square                    | [`EN Description`](https://leetcode.com/problems/valid-perfect-square/description/)                                |[`Solution`](problem367/solution.cpp)   |
 |374    |Guess Number Higher or Lower            | [`EN Description`](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                        |[`Solution`](problem374/solution.cpp)   |
 |383    |Ransom Note                             | [`EN Description`](https://leetcode.com/problems/ransom-note/description/)                                         |[`Solution`](problem383/solution.cpp)   |
