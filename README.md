@@ -94,6 +94,7 @@ In this repository, I store my solved LeetCode problems.
 |977    |Squares of a Sorted Array               | [`EN Description`](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                           |[`Solution`](problem977/solution.cpp)   |
 |1002   |Find Common Characters                  | [`EN Description`](https://leetcode.com/problems/find-common-characters/description/)                              |[`Solution`](problem1002/solution.cpp)  |
 |1025   |Divisor Game                            | [`EN Description`](https://leetcode.com/problems/divisor-game/description/)                                        |[`Solution`](problem1025/solution.cpp)  |
+|1051   |Height Checker                          | [`EN Description`](https://leetcode.com/problems/height-checker/description/)                                      |[`Solution`](problem1051/solution.cpp)  |
 |1275   |Find Winner on a Tic Tac Toe Game       | [`EN Description`](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                   |[`Solution`](problem1275/solution.cpp)  |
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
