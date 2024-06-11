@@ -97,6 +97,7 @@ In this repository, I store my solved LeetCode problems.
 |1025   |Divisor Game                            | [`EN Description`](https://leetcode.com/problems/divisor-game/description/)                                        |[`Solution`](problem1025/solution.cpp)  |
 |1051   |Height Checker                          | [`EN Description`](https://leetcode.com/problems/height-checker/description/)                                      |[`Solution`](problem1051/solution.cpp)  |
 |1114   |Print in Order                          | [`EN Description`](https://leetcode.com/problems/print-in-order/description/)                                      |[`Solution`](problem1114/solution.cpp)  |
+|1115   |Print FooBar Alternately                | [`EN Description`](https://leetcode.com/problems/print-foobar-alternately/description/)                            |[`Solution`](problem1115/solution.cpp)  |
 |1122   |Relative Sort Array                     | [`EN Description`](https://leetcode.com/problems/relative-sort-array/description/)                                 |[`Solution`](problem1122/solution.cpp)  |
 |1275   |Find Winner on a Tic Tac Toe Game       | [`EN Description`](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                   |[`Solution`](problem1275/solution.cpp)  |
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
