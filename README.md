@@ -90,6 +90,7 @@ In this repository, I store my solved LeetCode problems.
 |701    |Insert into a Binary Search Tree        | [`EN Description`](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)                    |[`Solution`](problem701/solution.cpp)   |
 |704    |Binary Search                           | [`EN Description`](https://leetcode.com/problems/binary-search/description/)                                       |[`Solution`](problem704/solution.cpp)   |
 |746    |Min Cost Climbing Stairs                | [`EN Description`](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                            |[`Solution`](problem746/solution.cpp)   |
+|771    |Jewels and Stones                       | [`EN Description`](https://leetcode.com/problems/jewels-and-stones/description/)                                   |[`Solution`](problem771/solution.cpp)   |
 |876    |Middle of the Linked List               | [`EN Description`](https://leetcode.com/problems/middle-of-the-linked-list/description/)                           |[`Solution`](problem876/solution.cpp)   |
 |917    |Reverse Only Letters                    | [`EN Description`](https://leetcode.com/problems/reverse-only-letters/description/)                                |[`Solution`](problem917/solution.cpp)   |
 |945    |Minimum Increment Make Array Unique     | [`EN Description`](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)              |[`Solution`](problem945/solution.cpp)   |
