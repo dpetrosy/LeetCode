@@ -92,6 +92,7 @@ In this repository, I store my solved LeetCode problems.
 |746    |Min Cost Climbing Stairs                | [`EN Description`](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                            |[`Solution`](problem746/solution.cpp)   |
 |876    |Middle of the Linked List               | [`EN Description`](https://leetcode.com/problems/middle-of-the-linked-list/description/)                           |[`Solution`](problem876/solution.cpp)   |
 |917    |Reverse Only Letters                    | [`EN Description`](https://leetcode.com/problems/reverse-only-letters/description/)                                |[`Solution`](problem917/solution.cpp)   |
+|945    |Minimum Increment Make Array Unique     | [`EN Description`](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)              |[`Solution`](problem945/solution.cpp)   |
 |977    |Squares of a Sorted Array               | [`EN Description`](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                           |[`Solution`](problem977/solution.cpp)   |
 |1002   |Find Common Characters                  | [`EN Description`](https://leetcode.com/problems/find-common-characters/description/)                              |[`Solution`](problem1002/solution.cpp)  |
 |1025   |Divisor Game                            | [`EN Description`](https://leetcode.com/problems/divisor-game/description/)                                        |[`Solution`](problem1025/solution.cpp)  |
