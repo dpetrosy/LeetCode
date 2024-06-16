@@ -125,3 +125,4 @@ In this repository, I store my solved LeetCode problems.
 |2810   |Faulty Keyboard                         | [`EN Description`](https://leetcode.com/problems/faulty-keyboard/description/)                                     |[`Solution`](problem2810/solution.cpp)  |
 |2848   |Points That Intersect With Cars         | [`EN Description`](https://leetcode.com/problems/points-that-intersect-with-cars/description/)                     |[`Solution`](problem2848/solution.cpp)  |
 |3024   |Type of Triangle                        | [`EN Description`](https://leetcode.com/problems/type-of-triangle/description/)                                    |[`Solution`](problem3024/solution.cpp)  |
+|3110   |Score of a String                       | [`EN Description`](https://leetcode.com/problems/score-of-a-string/description/)                                   |[`Solution`](problem3110/solution.cpp)  |
