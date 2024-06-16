@@ -106,6 +106,7 @@ In this repository, I store my solved LeetCode problems.
 |1275   |Find Winner on a Tic Tac Toe Game       | [`EN Description`](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                   |[`Solution`](problem1275/solution.cpp)  |
 |1448   |Count Good Nodes in Binary Tree         | [`EN Description`](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                     |[`Solution`](problem1448/solution.cpp)  |
 |1470   |Shuffle the Array                       | [`EN Description`](https://leetcode.com/problems/shuffle-the-array/description/)                                   |[`Solution`](problem1470/solution.cpp)  |
+|1929   |Concatenation of Array                  | [`EN Description`](https://leetcode.com/problems/concatenation-of-array/description/)                              |[`Solution`](problem1929/solution.cpp)  |
 |1979   |Find Greatest Common Divisor of Array   | [`EN Description`](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)               |[`Solution`](problem1979/solution.cpp)  |
 |2037   |Minimum Moves to Seat Everyone          | [`EN Description`](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)            |[`Solution`](problem2037/solution.cpp)  |
 |2095   |Delete the Middle Node of a Linked List | [`EN Description`](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)             |[`Solution`](problem2095/solution.cpp)  |
