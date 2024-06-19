@@ -18,6 +18,7 @@ In this repository, I store my solved LeetCode problems.
 |19	    |Remove Nth Node From End of List        | [`EN Description`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)	                          |[`Solution`](problem19/solution.cpp)    |
 |20	    |Valid Parentheses                       | [`EN Description`](https://leetcode.com/problems/valid-parentheses/description/)	                                          |[`Solution`](problem20/solution.cpp)    |
 |26	    |Remove Duplicates from Sorted Array     | [`EN Description`](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)	                        |[`Solution`](problem26/solution.cpp)    |
+|27	    |Remove Element                          | [`EN Description`](https://leetcode.com/problems/remove-element/description/)	                                            |[`Solution`](problem27/solution.cpp)    |
 |28	    |Find the Index of the First Occurrence  | [`EN Description`](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)	        |[`Solution`](problem28/solution.cpp)    |
 |35	    |Search Insert Position                  | [`EN Description`](https://leetcode.com/problems/search-insert-position/description/)	                                    |[`Solution`](problem35/solution.cpp)    |
 |50	    |Pow(x, n)                               | [`EN Description`](https://leetcode.com/problems/powx-n/description/)	                                                    |[`Solution`](problem50/solution.cpp)    |
