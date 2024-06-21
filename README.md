@@ -46,6 +46,7 @@ In this repository, I store my solved LeetCode problems.
 |145    |Binary Tree Postorder Traversal         | [`EN Description`](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)     	                      |[`Solution`](problem145/solution.cpp)   |
 |155    |Min Stack                               | [`EN Description`](https://leetcode.com/problems/min-stack/description/)     	                                            |[`Solution`](problem155/solution.cpp)   |
 |168    |Excel Sheet Column Title                | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-title/description/)                                    |[`Solution`](problem168/solution.cpp)   |
+|169    |Majority Element                        | [`EN Description`](https://leetcode.com/problems/majority-element/description/)                                            |[`Solution`](problem169/solution.cpp)   |
 |171    |Excel Sheet Column Number               | [`EN Description`](https://leetcode.com/problems/excel-sheet-column-number/description/)                                   |[`Solution`](problem171/solution.cpp)   |
 |189    |Rotate Array                            | [`EN Description`](https://leetcode.com/problems/rotate-array/description/)                                                |[`Solution`](problem189/solution.cpp)   |
 |190    |Reverse Bits                            | [`EN Description`](https://leetcode.com/problems/reverse-bits/description/)                                                |[`Solution`](problem190/solution.cpp)   |
