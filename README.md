@@ -1,3 +1,30 @@
+<a name="readme-top"></a>
+<div align="center">
+  <!-- Logo -->
+  <a href="https://github.com/dpetrosy/LeetCode">
+  <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <!-- Project Name -->
+  <h1>LeetCode Problems</h1>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/github/repo-size/dpetrosy/LeetCode?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/languages/count/dpetrosy/LeetCode?style=for-the-badge&logo=" />
+    <img src="https://img.shields.io/github/languages/top/dpetrosy/LeetCode?style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/dpetrosy/LeetCode?style=for-the-badge" />
+  </p>
+
+  <h3>
+      <a href="#-about-repository">📜 About Repository</a>
+    <span> · </span>
+      <a href="#-problem-list">📑 Problem List</a>
+  </h3>
+</div>
+
+---
+
 ## 📜 About Repository
 
 In this repository, I store my solved LeetCode problems.
